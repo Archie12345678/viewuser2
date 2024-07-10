@@ -1,0 +1,3 @@
+@media print {
+    .cssclsNoPrint{display: none;}
+}
